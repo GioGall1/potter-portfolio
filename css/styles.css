@@ -67,7 +67,7 @@ header {
     justify-content: center;
 }
 .img-post__1 {
-    background-image: url(../img/potfolio/portfolio1.jpg);
+    background-image: url(../img/blog/post-1-1.jpg);
 }
 .img-post__2 {
     background-image: url(../img/blog/post-2-2.jpg);
@@ -666,7 +666,6 @@ a:hover {
   }
 
   .parallax-section {
-    background-image: url('../img/potfolio/portfolio1.jpg'); 
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
