@@ -24,6 +24,7 @@
     background-position: center;
     background-size: cover;
 }
+
 .swiper-slide__one img {
     display: block;
     width: 100%;
@@ -39,6 +40,7 @@
   }
 
   .swiper-slide__two {
+    height: 250px;
     background: #fff;
     display: flex;
     justify-content: center;
@@ -46,7 +48,7 @@
     border-radius: 20px;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
     padding: 10px;
-  
+    overflow: hidden;
   }
 
   .swiper-slide__two img {
@@ -58,21 +60,26 @@
     border-right: solid;
     border-radius: 100px;
 }
+
 .swiper-slide__two p {
     padding: 10px;
-    font-size: 1.2vw;
+    font-size: clamp(14px, 1.1vw, 20px);
+    line-height: 1.4;
     border-right: solid;
     font-family: cursive;
-
+    overflow: hidden;
 }
+
 .swiper-slide__two h5 {
     padding: 5px;
     font-family: 'Font Awesome 6 Brands';
 }
+
 .slide__three img {
     width: 100%;
     border-radius: 100px;
 }
+
 .swiper-pagination-bullet {
     width: 30px;
     height: 30px;
@@ -83,9 +90,11 @@
     opacity: 1;
     background: rgba(0, 0, 0, 0.2);
   }
+
   .swiper-pagination {
     position: static;
   }
+
   .swiper-pagination-bullet-active {
     color: #fff;
     background: #7a5230;
@@ -93,19 +102,13 @@
   
 @media (min-width: 359px) and (max-width: 764px) {
     .swiper-one {
-        width: 300px;
-        height: 300px;
-        position: absolute;
-        left: 50%;
-        top: 38%;
-        margin-left: -150px;
-        margin-top: -150px;
+        position: static;
+        margin: 20px auto;
+        width: 240px;
+        height: 240px;
     }
 
-    .swiper-slide__two p {
-        padding: 4px;
-        font-size: 13px;
-    }
+  
 }
 
 /* end swiper */
