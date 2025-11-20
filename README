@@ -1,0 +1,134 @@
+
+
+# Potter Portfolio Website
+
+A modern, elegant and fully responsive portfolio website for a professional potter and ceramic artist.  
+This project includes animations, a blog, client testimonials, and showcases ceramic works in a clean and visually appealing layout.
+
+---
+
+# 🇬🇧 English Version
+
+## Features
+
+- Fully responsive layout  
+- Clean and modern design  
+- Swiper.js sliders (gallery, testimonials, blog)  
+- GSAP animations  
+- Blog pages  
+- Optimized HTML/CSS structure  
+- Great performance on mobile and desktop  
+- Simple deployment via GitHub Pages  
+
+---
+
+## Tech Stack
+
+- HTML5  
+- CSS3 / SCSS  
+- JavaScript (Vanilla JS)  
+- Swiper.js  
+- GSAP (GreenSock)  
+- GitHub Pages  
+
+---
+
+## Installation & Usage
+
+1. Clone the repository:
+```bash
+git clone https://github.com/GioGall1/potter-portfolio.git
+```
+
+2. Navigate into the folder:
+```bash
+cd potter-portfolio
+```
+
+3. Open `index.html` in any browser.
+
+---
+
+## Deploying to GitHub Pages
+
+1. Go to **Settings → Pages**  
+2. Choose branch: `main`  
+3. Folder: `/root`  
+4. Save  
+
+Your website will be available at:
+
+```
+https://giogall1.github.io/potter-portfolio/
+```
+
+---
+
+## License
+
+This project is for personal use.  
+Images cannot be reused without permission.
+
+---
+
+# 🇷🇺 Русская версия
+
+Современный и адаптивный сайт-портфолио для мастера по керамике и художника.  
+Сайт включает анимации, блог, отзывы клиентов и демонстрацию работ в аккуратном и стильном дизайне.
+
+---
+
+## Возможности
+
+- Полностью адаптивная верстка  
+- Чистый и современный дизайн  
+- Слайдеры Swiper.js (галерея, отзывы, блог)  
+- Анимации GSAP  
+- Страницы блога  
+- Оптимизированная структура HTML/CSS  
+- Отличная работа на мобильных и ПК  
+- Легкий деплой через GitHub Pages  
+
+---
+
+## Технологии
+
+- HTML5  
+- CSS3 / SCSS  
+- JavaScript  
+- Swiper.js  
+- GSAP  
+- GitHub Pages  
+
+---
+
+## Установка и запуск
+
+1. Клонировать репозиторий:
+```bash
+git clone https://github.com/GioGall1/potter-portfolio.git
+```
+
+2. Открыть папку:
+```bash
+cd potter-portfolio
+```
+
+3. Запустить сайт, открыв `index.html` в браузере.
+
+---
+
+## Деплой на GitHub Pages
+
+1. Перейти в **Settings → Pages**  
+2. Выбрать ветку: `main`  
+3. Папка: `/root`  
+4. Сохранить  
+
+Сайт будет доступен по адресу:
+
+```
+https://giogall1.github.io/potter-portfolio/
+```
+
+---
